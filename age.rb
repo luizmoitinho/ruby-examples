@@ -6,7 +6,7 @@ loop do
   puts '[1] Descobrir idade de uma pessoa'
   puts '[0] Sair'
 
-  puts 'Opção: '
+  print 'Opção: '
   option = gets.chomp.to_i
 
   if option == 1
@@ -25,4 +25,5 @@ loop do
   else
     result = "Opção inválida\n"
   end
+  system "clear"
 end
