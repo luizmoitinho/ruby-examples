@@ -1,0 +1,5 @@
+morango;10.50
+palmito;8.25
+brocolis;6.00
+leite;2.50
+arroz;3.25
